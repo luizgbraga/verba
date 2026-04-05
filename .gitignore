@@ -1,0 +1,17 @@
+progress
+
+# Data (rebuilt by scripts)
+backend/data
+
+# Python
+backend/venv/
+backend/.ruff_cache/
+__pycache__/
+*.pyc
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store

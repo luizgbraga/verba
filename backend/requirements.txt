@@ -1,0 +1,7 @@
+aiosqlite==0.22.1
+fastapi==0.135.3
+polars==1.39.3
+polars-runtime-32==1.39.3
+pydantic==2.12.5
+pydantic_core==2.41.5
+uvicorn==0.43.0
