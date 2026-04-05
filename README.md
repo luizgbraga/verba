@@ -1,8 +1,8 @@
 # Verba
 
-Type any word in any language. Watch its family tree bloom across 3000 years of human language.
+Built for curious language enthusiasts:
 
-**2.3M terms** · **3.7M etymological relationships** · **1.8M definitions** · **3,300+ languages**
+<img width="1470" height="830" alt="image" src="https://github.com/user-attachments/assets/adf91745-2c94-4e08-9e31-3caeef5441aa" />
 
 ## Setup
 
