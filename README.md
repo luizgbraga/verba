@@ -2,7 +2,8 @@
 
 Built for curious language enthusiasts:
 
-<img width="1470" height="830" alt="image" src="https://github.com/user-attachments/assets/adf91745-2c94-4e08-9e31-3caeef5441aa" />
+<img width="1470" height="830" alt="image" src="https://github.com/user-attachments/assets/df96f258-a9f5-42cc-abd9-1f82c7f489b4" />
+
 
 ## Setup
 
